@@ -1,1 +1,1 @@
-# Random-Color-generator
+This is a random colour generating website. I build it using html , css and Javascript. it is currently under progress with many future improvement plans. I am working on it 
