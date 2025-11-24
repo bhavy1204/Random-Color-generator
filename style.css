@@ -17,3 +17,26 @@ button{
     border-radius: 5px;
     padding: 5px;
 }
+
+.color-animate {
+    transform: scale(1.1) rotate(3deg);
+    transition: transform 0.4s ease;
+}
+
+
+#history {
+    margin-top: 20px;
+    display: flex;
+    gap: 6px;
+}
+
+#history .swatch {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+}
+
+#history .swatch:hover {
+    transform: scale(1.15);
+}
